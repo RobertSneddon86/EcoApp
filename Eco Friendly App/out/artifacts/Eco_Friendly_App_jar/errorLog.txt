@@ -1,0 +1,6 @@
+Miles can't be negative!
+KG can't be negative!
+For input string: "ok"
+For input string: "ok"
+For input string: "$"
+For input string: "%"
